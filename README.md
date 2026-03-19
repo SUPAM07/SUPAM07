@@ -10,7 +10,7 @@ I'm 22 years old `Full Stack Web Developer` From India.<img src="https://media.g
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-supam4iwt-green?logo=geeksforgeeks&logoColor=green&labelColor=black)](https://www.geeksforgeeks.org/profile/supam4iwt?tab=activity)
 [![Instagram](https://img.shields.io/badge/Instagram-supam021-purple?logo=instagram&logoColor=purple&labelColor=black)](https://www.instagram.com/supam021/)
 
-## 🌟 `A bit about me`
+## 🌟 `Exploring the World of Code`
 
 - Full Stack Developer with strong foundations in systems, backend, and scalable architectures   
 - Experienced in LLM-powered systems, distributed systems, and real-time applications  
