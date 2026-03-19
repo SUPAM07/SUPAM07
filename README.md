@@ -10,12 +10,13 @@ I'm 22 years old `Full Stack Web Developer` From India.<img src="https://media.g
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-supam4iwt-green?logo=geeksforgeeks&logoColor=green&labelColor=black)](https://www.geeksforgeeks.org/profile/supam4iwt?tab=activity)
 [![Instagram](https://img.shields.io/badge/Instagram-supam021-purple?logo=instagram&logoColor=purple&labelColor=black)](https://www.instagram.com/supam021/)
 
-## 🌟 `Exploring the World of Code`
+## 🌟 `A bit about me`
 
-🌱 Lifelong Learner | 💻 Self-Taught Full Stack Developer | 🎵 Music Enthusiast. <br />
-👯 I'm open to collaborations with fellow content creators and developers. <br />
-🥅 My goal: To be a skilled Engineer 👨‍💻. <br />
-🔍 Currently exploring Blockchain technology.
+- Full Stack Developer with strong foundations in systems, backend, and scalable architectures   
+- Experienced in LLM-powered systems, distributed systems, and real-time applications  
+- Creator of Fluxgate & VSCode Portfolio  
+- Fitness enthusiast | Music enthusiast
+- Open to collaborating on impactful engineering projects
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 
