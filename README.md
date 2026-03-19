@@ -1,33 +1,60 @@
-# 💫 About Me:
-Hi, I’m Supam Roy, a Computer Science undergraduate at NIT Durgapur (2022–2026) with a strong interest in full-stack development, AI systems, and LLM-powered applications.
+# Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px"> I'm Supam   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
+I'm 22 years old `Full Stack Web Developer` From India.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![Github](https://img.shields.io/github/followers/SUPAM07?label=Follow%20Me&style=social)](https://github.com/SUPAM07)
+
+[![Portfolio | Supam Roy](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://amritraj.vercel.app/)](https://amritraj.vercel.app/)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Supam%20Roy-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/supamroy2003/)
+[![Mail](https://img.shields.io/badge/Gmail-supamroy108@gmail.com-red?logo=Gmail&logoColor=red&labelColor=black)](mailto:supamroy108@gmail.com)
+<br>
+[![LeetCode](https://img.shields.io/badge/LeetCode-Hakurr-orange?logo=leetcode&logoColor=orange&labelColor=black)](https://leetcode.com/u/Hakurr/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-supam4iwt-green?logo=geeksforgeeks&logoColor=green&labelColor=black)](https://www.geeksforgeeks.org/profile/supam4iwt?tab=activity)
+[![Instagram](https://img.shields.io/badge/Instagram-supam021-purple?logo=instagram&logoColor=purple&labelColor=black)](https://www.instagram.com/supam021/)
+
+## 🌟 `Exploring the World of Code`
+
+🌱 Lifelong Learner | 💻 Self-Taught Full Stack Developer | 🎵 Music Enthusiast. <br />
+👯 I'm open to collaborations with fellow content creators and developers. <br />
+🥅 My goal: To be a skilled Engineer 👨‍💻. <br />
+🔍 Currently exploring Blockchain technology.
+
+<!-- START OF PROFILE STACK, DO NOT REMOVE -->
+
+### 🌟 Top Projects & Tech Mastery 🚀
+
+| 💻 **Technology** | 🚀 **Projects** |
+| - | - |
+
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white) |
+[![Project](https://img.shields.io/badge/⚡-FluxGate-black?logo=github)](add link) |
+
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) |
+[![Project](https://img.shields.io/badge/🧑‍💻-VSCode%20Portfolio-black?logo=github)](add link) |
+
+| ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white) ![Monaco Editor](https://img.shields.io/badge/Monaco-007ACC?logo=visualstudiocode&logoColor=white) |
+[![Project](https://img.shields.io/badge/🤖-Gen%20UI-black?logo=github)](add link) |
+
+| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Kociemba](https://img.shields.io/badge/Kociemba-000000?logo=python&logoColor=white) ![Colorama](https://img.shields.io/badge/Colorama-000000?logo=python&logoColor=white) |
+[![Project](https://img.shields.io/badge/🧩-Rubiks%20Cube%20Solver-black?logo=github)](add link) |
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/SUPAM_021) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SUPAM ROY) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:supamroy328@gmail.com) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=flat&logo=gitpod&logoColor=white) ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=flat&logo=octopusdeploy&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat&logo=testing-library&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SUPAM07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SUPAM07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUPAM07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=SUPAM07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+```javascript
+const Supam = {
+  pronouns: "he" | "him",
+  code: [Java, Javascript, Typescript, HTML, CSS, SQL, Data Structures & Algorithm, Problem Solving],
+  frontend: [React, Next, Redux, React-Query, tailwind, bootstrap],
+  backend: [nodejs, express, spring, springBoot, spring-security],
+  architecture: [monolith, microservices, event-driven, layered],
+  messaging/event-handling: [rabbitMQ, kafka],
+  databases : [MySQL, MonogoDB, Postgres],
+  tools: [Git, Github, VSCode, Docker],
+  cs: [OOPS, DBMS, Operating System, Computer Networks],
+ 
+}
+```
 
-<!--
-**SUPAM07/SUPAM07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
